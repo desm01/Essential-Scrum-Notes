@@ -1,0 +1,76 @@
+Scrum Framework:
+Chapter - 2...
+
+  Overview
+Scrum is not a standardised process. It's a FRAMEWORK. Based on a set of values,
+End version is totally unique.
+
+Scrum Roles:
+Scrum development involves one or more Scrum dev teams. 
+  - Three main roles: Product Owner, Scrum Master & Dev team
+  - Manager role still exists. Scrum bolts onto existing org.
+
+Product owner:
+Empowered central point of Products leadership. Single responsibility for deciding which features get added / scraped.
+Communicates vision of what we build. Responsible for success.
+Ensures most valuable work is completed. -> Works closely with Dev team / ScrumMaster. 
+Works to answer quesions asap.
+
+ScrumMaster:
+Helps everyone involved embrace Scrum values and principles. Provides process leadership.
+Helps team develop own processes / best practices.
+Helps team deal with scope mutation / change.
+Protects team from outside interference. 
+Leadership role in removing impediments.
+No authority over team. Can't exert control.
+Leader -> Not manager
+
+Dev Team:
+Architect, programmer, UX, database etc... 
+Diverse definition as Scrum works in many organisations.
+Dev Team is CROSS functional
+Members need to have all the skills to make good stuff. 
+Teams best to be small. 5-9 people. All self-organising.
+
+Scrum activities & Artifacts:
+
+Aside -> Much debate over commitments or forecast in defintion when planning. 
+Forecast should dictate Commitment.
+
+Team members assemble sprint backlog. A list of items that need completed to meet the sprint commitment.
+Each day the team synchronise, inspect & plan with each other: three big Qs. Yesterday, today, help?
+
+Team completes sprint by doing two activites:
+  - Sprint review -> Product owner gets feedback from stakeholders
+  - Sprint retro -> Look back on Sprint progress.
+
+Product Backlog:
+  - Prioritised by product owner.
+  - Stack -> Top most pressing.
+  - Sprint grooming -> Estimate and prioritise
+  - Story points / Days estimate used.
+
+Sprint:
+  - Fixed end date
+  - Time-boxed (Business needs get in the way)
+
+Sprint Planning:
+  - Backlog contains many months of work.
+  - Entire team collaborates to decide what to put in next Sprint. (Goal based)
+  - Reasonable estimates important. Comfortable pace of work.
+  - Breaking tasks down into sub-tasks is a type of Just in time planning. Added to Sprint backlog
+  - 
+
+Sprint execution:
+  - ScrumMaster happy that all tasks are completed succesfully
+  - ScrumMaster coaches
+  - Team members define their own workflow (Self organise)
+
+
+
+
+
+
+
+
+
