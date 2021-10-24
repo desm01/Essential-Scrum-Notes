@@ -1,0 +1,36 @@
+Agile Manifesto core principles:
+
+Variabillity / Uncertainty:
+  - Embrace helpful variability
+  - Employ Iterative / Incremental development
+  - Leverage variability through inspection, adaption & transparency
+  - Reduce all forms of uncertainty simultaneously
+
+Prediction & adaption:
+  - Keep options open
+  - Accept that you can't get it right up front
+  - Favor an adaptive, exploratory approach
+  - Embrace change in an economically sensible way
+  - Balance predictive up front work with adaptive Just In Time work
+
+Validated learning:
+  - Validate important assumptions fast
+  - Leverage multiple concurrent learning loops
+  - Organise work flow for fast feedback
+
+Work In Process:
+  - Use economically sensible batch sizes
+  - Recognize inventory and manage it for good flow
+  - Focus on idle work, not idle workers
+  - Consider cost of delay
+
+Progress:
+  - Adopt to real time information and replan
+  - Measure progress by validating working assets
+  - Focus on value centric delivery
+
+Performance:
+ - Go fast, but never hurry
+ - Build in quality
+ - Employ minimally sufficent ceremony
+
